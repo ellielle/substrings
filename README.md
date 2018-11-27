@@ -1,1 +1,1 @@
-Return a hash of how many instances of a word or words are in the included dictionary.
+Return a hash of how many instances of a word or words from the included string are in the dictionary.
